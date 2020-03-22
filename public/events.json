@@ -1,0 +1,327 @@
+{
+    "main": {
+      "name":"Events",
+      "header":[
+        {
+          "name":"Home",
+          "url":"#index"
+        },
+        {
+          "name":"About Us",
+          "url":"#about"
+        },
+        {
+          "name":"Our Features",
+          "url":"#features"
+        },
+        {
+          "name":"Our Team",
+          "url":"#team"
+        },
+        {
+          "name":"Register",
+          "url":"shortcodes.html"
+        },
+        {
+          "name":"Login",
+          "url":"shortcodes.html"
+        }
+      ],
+      "slides":[
+        {
+          "paragraph":"Your Home Deserves Special And Selected Furnishings",
+          "heading":"Modern Living Room Sets"
+        },
+        {
+          "paragraph":"Your Home Deserves Special And Selected Furnishings",
+          "heading":"Authentic And Luxurious"
+        },
+        {
+          "paragraph":"Your Home Deserves Special And Selected Furnishings",
+          "heading":"Amazing Exclusive Design"
+        },
+        {
+          "paragraph":"Your Home Deserves Special And Selected Furnishings",
+          "heading":"Authentic And Luxurious"
+        }
+      ],
+      "social":[
+        {
+          "name":"facebook",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"dribble",
+          "className":"fa fa-dribble"
+        },
+        {
+          "name":"vimeo",
+          "className":"fa fa-vimeo"
+        }
+      ]
+    },
+    "about":{
+      "message":"Fly Events Inc is an urban events venues and catering, established in 2010.",
+      "heading":"Our Cause?",
+      "subheading":"Venues & Catering",
+      "paragraph":"Whether you're looking to book a cocktail party, post-work gathering, celebratory function, conference, business meeting, wedding or private dining event, our dedicated Fly Events Inc team can create a package that will meet your every need.",
+      "us":[
+        {
+          "divclassname":"col-md-4 col-sm-4 about-info about-info1",
+          "iclassname":"fa fa-info-circle agile-sicon",
+          "heading":"What we do?",
+          "paragraph":"Any fuction that you are planning for, we got you covered. From the venue, to the setup and catering."
+        },
+        {
+          "divclassname":"col-md-4 col-sm-4 about-info about-info2",
+          "iclassname":"fa fa-question-circle agile-sicon",
+          "heading":"How we work?",
+          "paragraph":"Our team is dedicated to work at your convenience until the d-day."
+        },
+        {
+          "divclassname":"col-md-4 col-sm-4 about-info about-info3",
+          "iclassname":"fa fa-registered agile-sicon",
+          "heading":"How we deliver?",
+          "paragraph":"We ensure customer satisfaction is met at every step the previous day of the scheduled event."
+        }
+      ]
+    },
+    "features":{
+      "paragraph":"While planning for your event, it’s a good idea to think about certain key aspects like space available, the colours to be used, the kind of furniture and accessories you fancy.",
+      "portfolio": [
+        {
+          "classname":"col-md-6 w3ls-special-img",
+          "title":"Wedding",
+          "intro":"Maecenas ac hendrerit purus. Lorem ipsum dolor sit amet"
+        },
+        {
+          "classname":"col-md-6 w3ls-special-img wthree-img1",
+          "title":"Roof",
+          "intro":"Maecenas ac hendrerit purus. Lorem ipsum dolor sit amet"
+        },
+        {
+          "title":"Electrical",
+          "intro":"Maecenas ac hendrerit purus. Lorem ipsum dolor sit amet",
+          "classname":"col-md-6 w3ls-special-img wthree-img2"
+        },
+        {
+          "title":"Structure",
+          "intro":"Maecenas ac hendrerit purus. Lorem ipsum dolor sit amet",
+          "classname":"col-md-6 w3ls-special-img wthree-img3"
+        }
+      ]
+    },
+    "testimonials":{
+      "heading":"What our clients say about us",
+      "testimonials":[
+        {
+            "message":"Fly Events Inc is the best event planning company. I would recommend them to anyone,anytime anyday.",
+            "name":"Jane Luwi",
+            "text":"Client",
+            "image":"images/1.png"
+        }
+      ]
+    },
+    "stats":{
+        "heading":"Our team is dedicated and focused towards offering the best possible service in the various disciplines we offer. WE CARE ABOUT YOUR INTERESTS.",
+        "numbers":[
+          {
+              "divclassname":"col-md-3 w3layouts_stats_left w3_counter_grid",
+              "spanclassname":"fa fa-folder-open",
+              "text":"Events",
+              "image":"21005"
+          },
+          {
+              "divclassname":"col-md-3 w3layouts_stats_left w3_counter_grid1",
+              "spanclassname":"fa fa-user",
+              "text":"Staff",
+              "image":"165"
+          },
+          {
+              "divclassname":"col-md-3 w3layouts_stats_left w3_counter_grid2",
+              "spanclassname":"fa fa-users",
+              "text":"Happy Customers",
+              "image":"21012"
+          },
+          {
+              "divclassname":"col-md-3 w3layouts_stats_left w3_counter_grid3",
+              "spanclassname":"fa fa-trophy",
+              "text":"Awards",
+              "image":"23"
+          }
+        ]
+    },
+    "team":{
+        "heading":"While designing your living room, it’s a good idea to think about certain key aspects like space available, the colours to be used, the kind of furniture and accessories you fancy.",
+        "members":[
+            {
+              "image":"images/ceo.jpg",
+              "name":"Mary Ondire",
+              "post":"C.E.O",
+              "phone":"+254 712 345 678",
+              "facebook":"facebook",
+              "facebookurl":"#",
+              "facebookclassName":"fa fa-facebook",
+              "twittername":"twitter",
+              "twitterurl":"#",
+              "twitterclassName":"fa fa-twitter",
+              "googlename":"google-plus",
+              "googleurl":"#",
+              "googleclassName":"fa fa-google-plus",
+              "dribblename":"dribble",
+              "dribbleurl":"#",
+              "dribbleclassName":"fa fa-dribbble"
+            },
+            {
+                "image":"images/man.jpg",
+                "name":"James Doe",
+                "post":"Finance Executive",
+                "phone":"+254 798 654 321",
+                "facebook":"facebook",
+                "facebookurl":"#",
+                "facebookclassName":"fa fa-facebook",
+                "twittername":"twitter",
+                "twitterurl":"#",
+                "twitterclassName":"fa fa-twitter",
+                "googlename":"google-plus",
+                "googleurl":"#",
+                "googleclassName":"fa fa-google-plus",
+                "dribblename":"dribble",
+                "dribbleurl":"#",
+                "dribbleclassName":"fa fa-dribbble"
+            }     
+        ]
+    },
+    "projects":{
+        "heading":"While designing your living room, it’s a good idea to think about certain key aspects like space available, the colours to be used, the kind of furniture and accessories you fancy.",
+        "grid":[
+            {
+              "image":"images/s1.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s2.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s3.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s4.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            }          
+        ],
+        "gridone":[
+            {
+              "image":"images/s5.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s6.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s7.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s8.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            }          
+        ],
+        "gridtwo":[
+            {
+              "image":"images/s9.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s2.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s5.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            },
+            {
+              "image":"images/s1.jpg",
+              "name":"Upholstery",
+              "text":"Sed ultricies non sem sit amet laoreet. Ut semper erat erat."
+            }          
+        ]
+    },
+    "footer":{
+        "left":[
+          {
+              "className":"fa fa-twitter",
+              "text":"Biashara forum @The Social House Nairobi, happening on the 20th of March 2020 from 11am-3pm",
+              "span":"1 day ago"
+          },
+          {
+              "className":"fa fa-twitter",
+              "text":"How to start an events planning company with less than 100,000 Kshs.",
+              "span":"2 days ago"
+          }
+        ],
+        "center":[
+            {
+                "className":"fa fa-angle-double-right",
+                "url":"#",
+                "name":"Home"
+            },
+            {
+                "className":"fa fa-angle-double-right",
+                "url":"#",
+                "name":"Events"
+            },
+            {
+                "className":"fa fa-angle-double-right",
+                "url":"#",
+                "name":"Login"
+            },
+            {
+                "className":"fa fa-angle-double-right",
+                "url":"#",
+                "name":"Register"
+            }
+        ],
+        "right":[
+            {
+                "image":"images/decor.jpg"
+            },
+            {
+                "image":"images/theme3.jpg"
+            },
+            {
+                "image":"images/theme4.jpg"
+            },
+            {
+                "image":"images/theme3.jpg"
+            },
+            {
+                "image":"images/theme4.jpg"
+            },
+            {
+                "image":"images/decor.jpg"
+            }
+        ],
+        "paragraph":"© 2020 Fly Events Inc. All Rights Reserved | Design by M.O",
+        "url":"#"
+    }
+  }
+  
